@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1640027047354,
+  "timestamp": 1640120228995,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.bc22f4f3b8279d78049d.js",
+        "/main.5a905ca8dc294cf3c11e.js",
         "/manifest.webmanifest",
         "/polyfills.72841fc2dd2e08708240.js",
         "/runtime.6e73fc761428c5a9e391.js",
@@ -140,8 +140,8 @@
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/assets/imgs/logo_cronos.png": "46356916e49aec43ce8f26dc133d2aede5b6e5db",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "cb87da38393a79e40d14a7573631d3ca4e0c7fd5",
-    "/main.bc22f4f3b8279d78049d.js": "4ae3a4625b741a3c7edc3e5f6fc26551610a805c",
+    "/index.html": "2a8de18746993a6186d37effc032b9416b7eb21c",
+    "/main.5a905ca8dc294cf3c11e.js": "6369d2a8f26297f897fdbfb78f4813443ce7a3d3",
     "/manifest.webmanifest": "b39443ca27a08e5bab22be52747ff203313d2c68",
     "/polyfills.72841fc2dd2e08708240.js": "45d05a414e0f5d9cc3f291d4d8d0627e28ac729c",
     "/runtime.6e73fc761428c5a9e391.js": "99fe04774baa4cd5aa0c58fae5dc4b7c55477f7f",
